@@ -9,7 +9,7 @@ _Senior Software engineer/Tech Lead/Architect based in Opole, Poland_ <br>
 **Senior Software Engineer Technical Lead** @ [MasterBorn](https://masterborn.com/) _(January 2020 - Present)_ <br>
 - Create platform for Client (travel industry) in USA - Backend and Scraping system (Node, ClickHouse)
 - Create serverless platform for GPS (travel industry) in USA - AWS stack
-- Serverless product to analyze and prepare documents for Fintech company - Stack AWS and Node.
+- Serverless product to analyze and prepare documents for Fintech company - Stack AWS and Node. <br>
 **_Technologies used:_** TypeScript, JavaScript, AWS, Node, ClickHouse, ElastickSearch, Terraform, K8s.
 <br><br>
 
@@ -19,29 +19,29 @@ _Senior Software engineer/Tech Lead/Architect based in Opole, Poland_ <br>
   - Consulting in Data Science Fields.
   - Attend in workshop Data Science as a speaker.
   - MLOps consulting in Data Science.
-  - Backend platforms in Node, Rust, Scala and Python.
+  - Backend platforms in Node, Rust, Scala and Python. <br>
   **_Technologies used:_** Python, Flutter, Dart, Node.
 <br><br>
 
 **Senior Software Engineer** @ [Nozbe](https://nozbe.com/) _(July 2019 - January 2020)_ <br>
-  - Development productivity platform for teams
-  - Create ML algorithms
-  - Creat mobile application
+  - Development productivity platform for teams.
+  - Create ML algorithms.
+  - Creat mobile application. <br>
   **_Technologies used:_** Python, Flutter, Dart, Node.
 <br><br>
 
 **Senior Software Engineer** @ [Birght Coders Factory](https://bcf-software.pl/) _(September 2018 - July 2019)_ <br>
   - Mobile application for tne pharmaceutical company Roche.
   - Proxy platform to transform data for Spanish Fintech.
-  - Serverless platform for communication with bakns for Norwey Fintech company.
+  - Serverless platform for communication with bakns for Norwey Fintech company. <br>
   **_Technologies used:_** C#, .Net Core, AWS, Kotlin, Python, Node.
     <br><br>
 
 **Data Scientist/Software Engineering** @ [Data Lions](https://datalions.eu/) _(January 2018 - November 2018)_ <br>
-  - Create architecture for platform
-  - Implement platform for handling data
-  - Working in ML algorithms for detect diseases - Image processing
-  - Create mobile application  
+  - Create architecture for platform.
+  - Implement platform for handling data.
+  - Working in ML algorithms for detect diseases - Image processing.
+  - Create mobile application. <br>
   **_Technologies used:_** Python, C#, .Net Core 2.x, R, TypeScript, React,
 Django, Scrappy, QGIS, GDAL, CQRS, ES, DDD, Distributed Systems, Streams, Kotlin/Android Studio.
   <br><br>
@@ -50,7 +50,7 @@ Django, Scrappy, QGIS, GDAL, CQRS, ES, DDD, Distributed Systems, Streams, Kotlin
   - Improve 3G technology. 
   - Create and implement the architecture to routing system in 5G technology. 
   - Scrum master role.
-  - Working on testing platform to emulate hole network.
+  - Working on testing platform to emulate hole network. <br>
   **_Technologies used:_** Python, C++.
 <br><br>
     
