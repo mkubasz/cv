@@ -4,6 +4,13 @@ _Senior Software engineer/Tech Lead/Architect based in Opole, Poland_ <br>
 
 [Email](mailto:m.kubaszek@protonmail.com)  / [LinkedIn](https://www.linkedin.com/in/%E2%9A%AA%F0%9F%94%B4%E2%9A%AA-mateusz-kubaszek-58306466/) / [GitHub](https://github.com/mkubasz/) / [Twitter](https://twitter.com/MateuszKubaszek/)
 
+## What I want?
+I'm open for a senior software engineer/architect/tech lead position. I have
+experience and knowledge in the design and create enterprise software and solve
+algorithms problems. I'm ability to work with big data and distributed systems. Now
+my skill improves in mobile development, Data Science and distributed systems. I
+really like creating something that can improve the real world.
+
 ## 👩🏼‍💻 Technical Experience
 
 **Senior Software Engineer Technical Lead** @ [MasterBorn](https://masterborn.com/) _(January 2020 - Present)_ <br>
