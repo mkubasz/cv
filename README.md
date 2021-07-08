@@ -7,6 +7,14 @@ _Senior Software engineer/Tech Lead/Architect based in Opole, Poland_ <br>
 ## What I want?
 I'm open to a senior software engineer/architect/tech lead position. I have experience and knowledge in the design and create enterprise software and solve algorithms problems. I'm the ability to work with big data and distributed systems. Now my skill improves in mobile development, Data Science, and distributed systems. I like creating something that can improve the real world.
 
+## My stack:
+ - Languages: Rust, C#, F#, Scala, Go, Python, JavaScript(Node), TypeScript, R
+ - Clouds: AWS, Google Cloud
+ - Devops: GitOps, MLOps, Docker, K8s, Helmet, Git Actions
+ - Software Topics: DDD, CQRS/ES, Event Sourcing, Desing Patterns, Cloud Computing, Algorithms, Functional Programming
+ - Architecture Topics: Enterpise Architecture, Microservices, Distributed Systems, Message Brokers, Streaming
+ - DS Topics: EDA, ML, DL, Image Processing
+
 ## 👩🏼‍💻 Technical Experience
 
 **Senior Software Engineer Technical Lead** @ [MasterBorn](https://masterborn.com/) _(January 2020 - Present)_ <br>
