@@ -5,11 +5,7 @@ _Senior Software engineer/Tech Lead/Architect based in Opole, Poland_ <br>
 [Email](mailto:m.kubaszek@protonmail.com)  / [LinkedIn](https://www.linkedin.com/in/%E2%9A%AA%F0%9F%94%B4%E2%9A%AA-mateusz-kubaszek-58306466/) / [GitHub](https://github.com/mkubasz/) / [Twitter](https://twitter.com/MateuszKubaszek/)
 
 ## What I want?
-I'm open for a senior software engineer/architect/tech lead position. I have
-experience and knowledge in the design and create enterprise software and solve
-algorithms problems. I'm ability to work with big data and distributed systems. Now
-my skill improves in mobile development, Data Science and distributed systems. I
-really like creating something that can improve the real world.
+I'm open to a senior software engineer/architect/tech lead position. I have experience and knowledge in the design and create enterprise software and solve algorithms problems. I'm the ability to work with big data and distributed systems. Now my skill improves in mobile development, Data Science, and distributed systems. I like creating something that can improve the real world.
 
 ## 👩🏼‍💻 Technical Experience
 
@@ -23,6 +19,7 @@ really like creating something that can improve the real world.
 **Consultant Software Architect** @ Order of Devs _(September 2018 - Present)_ <br>
   - Create a library for machine learning in Rust (DuckRS).
   - Flutter mobile applications. (Brewiarz, Shoplist, Todo, Nozbe Lightweight, Schedule Manager)
+  - Car detection for New York City. Image and video processing stack.
   - Consulting in Data Science Fields.
   - Attend in workshop Data Science as a speaker.
   - MLOps consulting in Data Science.
