@@ -4,7 +4,7 @@ _Senior Software engineer/Tech Lead/Architect based in Opole, Poland_ <br>
 
 [Email](mailto:m.kubaszek@protonmail.com)  / [LinkedIn](https://www.linkedin.com/in/%E2%9A%AA%F0%9F%94%B4%E2%9A%AA-mateusz-kubaszek-58306466/) / [GitHub](https://github.com/mkubasz/) / [Twitter](https://twitter.com/MateuszKubaszek/)
 
-## What I want?
+## About position?
 I'm open to a senior software engineer/architect/tech lead position. I have experience and knowledge in the design and create enterprise software and solve algorithms problems. I'm the ability to work with big data and distributed systems. Now my skill improves in architecture, Data Science, and distributed systems. I like creating something that can improve the real world.
 
 ## My stack:
@@ -12,14 +12,14 @@ I'm open to a senior software engineer/architect/tech lead position. I have expe
  - Clouds: AWS, Google Cloud
  - Devops: GitOps, MLOps, Docker, K8s, Helmet, Git Actions
  - Software Topics: DDD, CQRS/ES, Event Sourcing, Desing Patterns, Cloud Computing, Algorithms, Functional Programming
- - Architecture Topics: Enterpise Architecture, Microservices, Distributed Systems, Message Brokers, Streaming
+ - Architecture Topics: Enterprise Architecture, Microservices, Distributed Systems, Message Brokers, Streaming
  - DS Topics: EDA, ML, DL, Image Processing
 
 ## 👩🏼‍💻 Technical Experience
 
 **Senior Software Engineer Technical Lead** @ [MasterBorn](https://masterborn.com/) _(January 2020 - Present)_ <br>
-- Create platform for Client (travel industry) in USA - Backend and Scraping system (Node, ClickHouse)
-- Create serverless platform for GPS (travel industry) in USA - AWS stack
+- Create a platform for Client (travel industry) in USA - Backend and Scraping system (Node, ClickHouse)
+- Create a serverless platform for GPS (travel industry) in USA - AWS stack
 - Serverless product to analyze and prepare documents for Fintech company - Stack AWS and Node. <br>
 **_Technologies used:_** TypeScript, JavaScript, AWS, Node, ClickHouse, ElastickSearch, Terraform, K8s.
 <br><br>
@@ -31,29 +31,29 @@ I'm open to a senior software engineer/architect/tech lead position. I have expe
   - Consulting in Data Science Fields.
   - Attend in workshop Data Science as a speaker.
   - MLOps consulting in Data Science.
-  - Backend platforms in Node, Rust, Scala and Python. <br>
+  - Backend platforms in Node, Rust, Scala, and Python. <br>
   **_Technologies used:_** Python, Flutter, Dart, Node.
 <br><br>
 
 **Senior Software Engineer** @ [Nozbe](https://nozbe.com/) _(July 2019 - January 2020)_ <br>
   - Development productivity platform for teams.
   - Create ML algorithms.
-  - Creat mobile application. <br>
+  - Create a mobile application. <br>
   **_Technologies used:_** Python, Flutter, Dart, Node.
 <br><br>
 
 **Senior Software Engineer** @ [Birght Coders Factory](https://bcf-software.pl/) _(September 2018 - July 2019)_ <br>
   - Mobile application for tne pharmaceutical company Roche.
   - Proxy platform to transform data for Spanish Fintech.
-  - Serverless platform for communication with bakns for Norwey Fintech company. <br>
+  - Serverless platform for communication with banks for Norway Fintech company. <br>
   **_Technologies used:_** C#, .Net Core, AWS, Kotlin, Python, Node.
     <br><br>
 
 **Data Scientist/Software Engineering** @ [Data Lions](https://datalions.eu/) _(January 2018 - November 2018)_ <br>
-  - Create architecture for platform.
-  - Implement platform for handling data.
+  - Create architecture for a platform.
+  - Implement a platform for handling data.
   - Working in ML algorithms for detect diseases - Image processing.
-  - Create mobile application. <br>
+  - Create a mobile application. <br>
   **_Technologies used:_** Python, C#, .Net Core 2.x, R, TypeScript, React,
 Django, Scrappy, QGIS, GDAL, CQRS, ES, DDD, Distributed Systems, Streams, Kotlin/Android Studio.
   <br><br>
@@ -62,7 +62,7 @@ Django, Scrappy, QGIS, GDAL, CQRS, ES, DDD, Distributed Systems, Streams, Kotlin
   - Improve 3G technology. 
   - Create and implement the architecture to routing system in 5G technology. 
   - Scrum master role.
-  - Working on testing platform to emulate hole network. <br>
+  - Working on a testing platform to emulate hole network. <br>
   **_Technologies used:_** Python, C++.
 <br><br>
     
@@ -75,12 +75,12 @@ Django, Scrappy, QGIS, GDAL, CQRS, ES, DDD, Distributed Systems, Streams, Kotlin
 4. Company: Future Processing. Refactor and add new features into UKpower platrom. **_Technologies used:_** Ruby on Rails.
 5. Company: Weegree. Create systems ERP for outsourcing. **_Technologies used:_** DDD, CQRS, Event Sourcing,
 Backend(.Net Core), Frontend(React, React Native, Bootstrap, ES , 9Query, Redux),
-Databases(MySQL, MsSQL and MongoDB), scripts in jenkins(Groovy). 
+Databases(MySQL, MsSQL and MongoDB), scripts in Jenkins(Groovy). 
 6. Company: Profitech. Create and improve database in T-SQL. Integrate DevOps pipeline and scripts.
 7. Company: Techland. Create AI for Dying Light.
 8. Open source: 
   - Add improvements into GCC
-  - Fix few bugs in Jenkins related with android bulds. 
+  - Fix few bugs in Jenkins related to android builds. 
   - Improve React lib in C++. 
   - Improve regex in Android Studio IDE in search box
 <br><br>
@@ -90,8 +90,8 @@ Databases(MySQL, MsSQL and MongoDB), scripts in jenkins(Groovy).
 _This section only accounts for work done post-career change._
 <br><br>
 
-**Create thechnical channel** @ [Youtube](https://www.youtube.com/channel/UCVgwdFgvU97vHR0rXBLDVpg) _(2020 - Present)_ <br>
-Online publications that provides insights into the architecture, programmind and ML topict.
+**Create technical channel** @ [Youtube](https://www.youtube.com/channel/UCVgwdFgvU97vHR0rXBLDVpg) _(2020 - Present)_ <br>
+Online publications that provide insights into the architecture, programming, and ML topics.
 <br><br>
 
 <!-- ## 📌 On The Side
@@ -127,9 +127,9 @@ Topic: Distributed
 ## 👩🏼‍🎓 Education
 
 **Master of Engineering** in Technical University in Opole<br>
-Thesis: Comparative analysys of the implementation of selected Data Science algorithms in Rust and Python<br>
+Thesis: Comparative analysis of the implementation of selected Data Science algorithms in Rust and Python<br>
 Opole, Poland _(2017 - 2019)_
 
-**Bechelor of Engineering** in University in Opole<br>
+**Bachelor of Engineering** in University in Opole<br>
 Thesis: Distributed system in blockchain<br>
 Opole, Poland _(2013 - 2017)_
