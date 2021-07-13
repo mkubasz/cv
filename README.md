@@ -5,7 +5,7 @@ _Senior Software engineer/Tech Lead/Architect based in Opole, Poland_ <br>
 [Email](mailto:m.kubaszek@protonmail.com)  / [LinkedIn](https://www.linkedin.com/in/%E2%9A%AA%F0%9F%94%B4%E2%9A%AA-mateusz-kubaszek-58306466/) / [GitHub](https://github.com/mkubasz/) / [Twitter](https://twitter.com/MateuszKubaszek/)
 
 ## About position?
-I'm open to a senior software engineer/architect/tech lead position. I have experience and knowledge in the design and create enterprise software and solve algorithms problems. I'm the ability to work with big data and distributed systems. Now my skill improves in architecture, Data Science, and distributed systems. I like creating something that can improve the real world.
+Expert-level Software Architect with over 9 years experience in developing distributed software products. Pragmatic in using various technologies to design, develop, and attentively deploy real enterprise class software, including building a knowledge base of customers' environments and their use of products. Eager to explore AI/ML technology branch by using them while working with currently active projects.
 
 ## My stack:
  - Languages: Rust, C#, F#, Scala, Go, Python, JavaScript(Node), TypeScript, R
