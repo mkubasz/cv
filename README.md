@@ -64,22 +64,22 @@ Django, Scrappy, QGIS, GDAL, CQRS, ES, DDD, Distributed Systems, Streams, Kotlin
 <br><br>
     
 **Software Engineering** @ Freelancer _(March 2012 - March 2017)_ <br>
-1. Company: Envipro. Created ERP system for trash service.
+1. Company: Envipro. Created ERP system for trash service company.
 **_Technologies used:_** mobile app (Android), web(HTML, Ks, d6,Ks, query, grunt) and backend(.net
 4).
-2. Company: University of Opole. Create the application for managing the using WPF and scripts in .Net.
-3. Company: Orb. Mobile application called [Brewiarz](https://play.google.com/store/apps/details?id=osoftware.liturgiahorarumdroid&hl=pl&gl=US).
-4. Company: Future Processing. Refactor and add new features into UKpower platrom. **_Technologies used:_** Ruby on Rails.
-5. Company: Weegree. Create systems ERP for outsourcing. **_Technologies used:_** DDD, CQRS, Event Sourcing,
+2. Company: University of Opole. Creating the application support Manage lectures using WPF and scripts in .Net.
+3. Company: Orb. Creating the mobile application named [Brewiarz](https://play.google.com/store/apps/details?id=osoftware.liturgiahorarumdroid&hl=pl&gl=US).
+4. Company: Future Processing. Refactor and implementing new features into the UKpower platrom. **_Technologies used:_** Ruby on Rails.
+5. Company: Weegree. Creating the system ERP for outsourcing support. **_Technologies used:_** DDD, CQRS, Event Sourcing,
 Backend(.Net Core), Frontend(React, React Native, Bootstrap, ES , 9Query, Redux),
 Databases(MySQL, MsSQL and MongoDB), scripts in Jenkins(Groovy). 
 6. Company: Profitech. Responsible for planning and implementation database in T-SQL. Integrate DevOps pipeline and scripts.
 7. Company: Techland. Responsible for implementation of AI for Dying Light.
 8. Open source: 
-  - Add improvements into GCC
-  - Fix few bugs in Jenkins related to android builds. 
-  - Improve React lib in C++. 
-  - Improve regex in Android Studio IDE in search box
+  - Creating improvements into GCC
+  - Fixed few bugs in Jenkins related to the Android builds. 
+  - Improved React lib in C++. 
+  - Improved Regex in Android Studio IDE in search box
 <br><br>
     
 ## 🗞 Youtuber Experience
