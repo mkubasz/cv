@@ -37,12 +37,12 @@ Expert-level Software Architect with over 9 years experience in developing distr
 **Senior Software Engineer** @ [Nozbe](https://nozbe.com/) _(July 2019 - January 2020)_ <br>
   - Responsible for the productivity platform for teams.
   - Responsible for a ML algorithms to help productivity.
-  - Responsible for a mobile application for support productivity. <br>
+  - Creating the mobile application for support productivity. <br>
   **_Technologies used:_** Python, Flutter, Dart, Node.
 <br><br>
 
 **Senior Software Engineer** @ [Birght Coders Factory](https://bcf-software.pl/) _(September 2018 - July 2019)_ <br>
-  - Responsible for the mobile application for the pharmaceutical company called Roche.
+  - Creating the mobile application for the pharmaceutical company called Roche.
   - Responsible for proxy platform to handle transform data with dynamic business rules. Client was the Spanish Fintech.
   - Responsible for the serverless platform to handle communication with norway banks for the Norway Fintech company. <br>
   **_Technologies used:_** C#, .Net Core, AWS, Kotlin, Python, Node.
