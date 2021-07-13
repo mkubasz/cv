@@ -18,40 +18,40 @@ Expert-level Software Architect with over 9 years experience in developing distr
 ## 👩🏼‍💻 Technical Experience
 
 **Senior Software Engineer Technical Lead** @ [MasterBorn](https://masterborn.com/) _(January 2020 - Present)_ <br>
-- Create a platform for the Client (travel industry) in USA - RestApi Backend and Scraping system.
-- Create a serverless platform using GPS technology for the Client (travel industry) in USA - AWS cloud
-- Create a serverless platform to analyze and prepare documents for the Fintech company - AWS cloud. <br>
+- Responsible for a platform for the Client (travel industry) in USA - RestApi Backend and Scraping system.
+- Responsible for a serverless platform using GPS technology for the Client (travel industry) in USA - AWS cloud
+- Responsible for a serverless platform to analyze and prepare documents for the Fintech company - AWS cloud. <br>
 **_Technologies used:_** TypeScript, JavaScript, AWS, Node, ClickHouse, ElastickSearch, Terraform, K8s.
 <br><br>
 
 **Consultant Software Architect** @ Order of Devs _(September 2018 - Present)_ <br>
-  - Create a ML library in Rust (DuckRS).
-  - Create mobile applications in Flutter stack. (Brewiarz, Shoplist, Todo, Nozbe Lightweight, Schedule Manager)
-  - Create a platform for car detection business case for the client `New York City`. Image and video processing stack.
+  - Responsible for a ML library in Rust (DuckRS).
+  - Responsible for mobile applications in Flutter stack. (Brewiarz, Shoplist, Todo, Nozbe Lightweight, Schedule Manager)
+  - Responsible for a platform for car detection business case for the client `New York City`. Image and video processing stack.
   - Consulting with Clients topics related with the Data Science and MLOps tech stack.
   - Planning and run workshops to learn Data Science skills.
-  - Create many backend platforms for Clients. Node, Rust, Scala, and Python tech stack. <br>
+  - Responsible for many backend platforms for Clients. Node, Rust, Scala, and Python tech stack. <br>
   **_Technologies used:_** Python, Rust, Scala, Flutter, Dart, Node.
 <br><br>
 
 **Senior Software Engineer** @ [Nozbe](https://nozbe.com/) _(July 2019 - January 2020)_ <br>
-  - Create productivity platform for teams.
-  - Create ML algorithms to help productivity.
-  - Create a mobile application for support productivity. <br>
+  - Responsible for productivity platform for teams.
+  - Responsible for ML algorithms to help productivity.
+  - Responsible for a mobile application for support productivity. <br>
   **_Technologies used:_** Python, Flutter, Dart, Node.
 <br><br>
 
 **Senior Software Engineer** @ [Birght Coders Factory](https://bcf-software.pl/) _(September 2018 - July 2019)_ <br>
-  - Create the mobile application for the pharmaceutical company called Roche.
-  - Create proxy platform to handle transform data with dynamic business rules. Client was the Spanish Fintech.
-  - Create the serverless platform to handle communication with norway banks for the Norway Fintech company. <br>
+  - Responsible for the mobile application for the pharmaceutical company called Roche.
+  - Responsible for proxy platform to handle transform data with dynamic business rules. Client was the Spanish Fintech.
+  - Responsible for the serverless platform to handle communication with norway banks for the Norway Fintech company. <br>
   **_Technologies used:_** C#, .Net Core, AWS, Kotlin, Python, Node.
     <br><br>
 
 **Data Scientist/Software Engineering** @ [Data Lions](https://datalions.eu/) _(January 2018 - November 2018)_ <br>
-  - Planning and implementation the architecture for the diseases detection platform.
-  - Working in ML algorithms for detect diseases - Image processing.
-  - Create a mobile application to visualize data. <br>
+  - Responsible for planning and implementation the architecture for the diseases detection platform.
+  - Responsible for implemententation of ML algorithms for detect diseases - Image processing.
+  - Responsible for a mobile application to visualize data. <br>
   **_Technologies used:_** Python, C#, .Net Core 2.x, R, TypeScript, React,
 Django, Scrappy, QGIS, GDAL, CQRS, ES, DDD, Distributed Systems, Streams, Kotlin/Android Studio.
   <br><br>
@@ -73,8 +73,8 @@ Django, Scrappy, QGIS, GDAL, CQRS, ES, DDD, Distributed Systems, Streams, Kotlin
 5. Company: Weegree. Create systems ERP for outsourcing. **_Technologies used:_** DDD, CQRS, Event Sourcing,
 Backend(.Net Core), Frontend(React, React Native, Bootstrap, ES , 9Query, Redux),
 Databases(MySQL, MsSQL and MongoDB), scripts in Jenkins(Groovy). 
-6. Company: Profitech. Create and improve database in T-SQL. Integrate DevOps pipeline and scripts.
-7. Company: Techland. Create AI for Dying Light.
+6. Company: Profitech. Responsible for planning and implementation database in T-SQL. Integrate DevOps pipeline and scripts.
+7. Company: Techland. Responsible for implementation of AI for Dying Light.
 8. Open source: 
   - Add improvements into GCC
   - Fix few bugs in Jenkins related to android builds. 
