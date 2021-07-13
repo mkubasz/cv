@@ -49,7 +49,7 @@ Expert-level Software Architect with over 9 years experience in developing distr
     <br><br>
 
 **Data Scientist/Software Engineering** @ [Data Lions](https://datalions.eu/) _(January 2018 - November 2018)_ <br>
-  - Plannind and implement the architecture for the diseases detection platform.
+  - Planning and implementation the architecture for the diseases detection platform.
   - Working in ML algorithms for detect diseases - Image processing.
   - Create a mobile application to visualize data. <br>
   **_Technologies used:_** Python, C#, .Net Core 2.x, R, TypeScript, React,
@@ -57,10 +57,9 @@ Django, Scrappy, QGIS, GDAL, CQRS, ES, DDD, Distributed Systems, Streams, Kotlin
   <br><br>
 
 **Software Engineering** @ [Nokia](https://www.nokia.com/) _(March 2017 - January 2018)_ <br>
-  - Improve 3G technology. 
-  - Create and implement the architecture to routing system in 5G technology. 
-  - Scrum master role.
-  - Working on a testing platform to emulate hole network. <br>
+  - Implemented the architecture for the routing system used 5G technology. 
+  - Participated in all meeting as Scrum master.
+  -  Created testing platform to emulate network and routes. <br>
   **_Technologies used:_** Python, C++.
 <br><br>
     
