@@ -18,6 +18,7 @@ Expert-level Software Architect with over 9 years experience in developing distr
 ## 👩🏼‍💻 Technical Experience
 
 **Senior Software Engineer Technical Lead** @ [MasterBorn](https://masterborn.com/) _(January 2020 - Present)_ <br>
+- Responsible for a political platform to archive documents in USA - AWS Serverless, Elasticsearch, NLP and AWS stack.
 - Responsible for a platform for the Client (travel industry) in USA - RestApi Backend and Scraping system.
 - Responsible for the serverless platform using GPS technology for the Client (travel industry) in USA - AWS cloud
 - Responsible for the serverless platform to analyze and prepare documents for the Fintech company - AWS cloud. <br>
