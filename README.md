@@ -18,7 +18,7 @@ Expert-level Software Architect with over 9 years experience in developing distr
 ## 👩🏼‍💻 Technical Experience
 
 **Senior Software Engineer Technical Lead** @ [MasterBorn](https://masterborn.com/) _(January 2020 - Present)_ <br>
-- Responsible for a political platform to archive documents in USA - AWS Serverless, Elasticsearch, NLP and AWS stack.
+- Responsible for a political platform to archive documents in USA - AWS Serverless, Elasticsearch(NLP) and AWS stack.
 - Responsible for a platform for the Client (travel industry) in USA - RestApi Backend and Scraping system.
 - Responsible for the serverless platform using GPS technology for the Client (travel industry) in USA - AWS cloud
 - Responsible for the serverless platform to analyze and prepare documents for the Fintech company - AWS cloud. <br>
@@ -37,7 +37,7 @@ Expert-level Software Architect with over 9 years experience in developing distr
 
 **Senior Software Engineer** @ [Nozbe](https://nozbe.com/) _(July 2019 - January 2020)_ <br>
   - Responsible for the productivity platform for teams.
-  - Responsible for a ML algorithms to help productivity.
+  - Responsible for a ML infrastructure to help productivity.
   - Creating the mobile application for support productivity. <br>
   **_Technologies used:_** Python, Flutter, Dart, Node.
 <br><br>
@@ -51,7 +51,7 @@ Expert-level Software Architect with over 9 years experience in developing distr
 
 **Data Scientist/Software Engineering** @ [Data Lions](https://datalions.eu/) _(January 2018 - November 2018)_ <br>
   - Responsible for planning and implementation the architecture for the diseases detection platform.
-  - Responsible for implemententation of ML algorithms for detect diseases - Image processing.
+  - Responsible for implemententation and opimilization of ML algorithms for detect diseases - Image processing.
   - Responsible for the mobile application to visualize data. <br>
   **_Technologies used:_** Python, C#, .Net Core 2.x, R, TypeScript, React,
 Django, Scrappy, QGIS, GDAL, CQRS, ES, DDD, Distributed Systems, Streams, Kotlin/Android Studio.
