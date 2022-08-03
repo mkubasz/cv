@@ -5,27 +5,22 @@ _Senior Software engineer/Tech Lead/Architect based in Opole, Poland_ <br>
 [Email](mailto:m.kubaszek@protonmail.com)  / [LinkedIn](https://www.linkedin.com/in/%E2%9A%AA%F0%9F%94%B4%E2%9A%AA-mateusz-kubaszek-58306466/) / [GitHub](https://github.com/mkubasz/) / [Twitter](https://twitter.com/MateuszKubaszek/)
 
 ## About position?
-Expert-level Software Architect with over 9 years experience in developing distributed software products. Pragmatic in using various technologies to design, develop, and attentively deploy real enterprise class software, including building a knowledge base of customers' environments and their use of products. Eager to explore AI/ML technology branch by using them while working with currently active projects.
+Expert-level Software Architect with over 10 years of experience in developing distributed software products. Pragmatic in using various technologies to design, develop, and attentively deploy real enterprise class software, including building a knowledge base of customers' environments and their use of products. Eager to explore MLOps/GitOps technology branch by using them while working with currently active projects.
 
 ## My stack:
- - Languages: Rust, C#, F#, Scala, Go, Python, JavaScript(Node), TypeScript, R
+ - Languages: Rust, C#, F#, Scala, Go, Python, JavaScript(Node), TypeScript
  - Clouds: AWS, Google Cloud
- - Devops: GitOps, MLOps, Docker, K8s, Helmet, Git Actions
+ - Devops: GitOps, MLOps, Docker, K8s, Helmet, Github, Gitlab
  - Software Topics: DDD, CQRS/ES, Event Sourcing, Desing Patterns, Cloud Computing, Algorithms, Functional Programming
  - Architecture Topics: Enterprise Architecture, Microservices, Distributed Systems, Message Brokers, Streaming
- - DS Topics: EDA, ML, DL, Image Processing
+ - DE: ElasticSearch, Apach Spark, Apach Flnk
 
 ## 👩🏼‍💻 Technical Experience
 
-**Senior Software Engineer Technical Lead** @ [MasterBorn](https://masterborn.com/) _(January 2020 - Present)_ <br>
-- Responsible for a political platform to archive documents in USA - AWS Serverless, Elasticsearch(NLP) and AWS stack.
-- Responsible for a platform for the Client (travel industry) in USA - RestApi Backend and Scraping system.
-- Responsible for the serverless platform using GPS technology for the Client (travel industry) in USA - AWS cloud
-- Responsible for the serverless platform to analyze and prepare documents for the Fintech company - AWS cloud. <br>
-**_Technologies used:_** TypeScript, JavaScript, AWS, Node, ClickHouse, ElastickSearch, Terraform, K8s.
-<br><br>
-
 **Consultant Software Architect** @ Order of Devs _(September 2018 - Present)_ <br>
+  - Working on infrastructure for Canal+ - Python, AWS, Spark, Snowflake
+  - Responsible for the GCP and CI/CD for Betfan - GCP, Github
+  - Planning and implementing services for Acast - AWS, Node, CDK, Github
   - Responsible for the ML library in Rust (DuckRS).
   - Responsible for a mobile applications in Flutter stack. (Brewiarz, Shoplist, Todo, Nozbe Lightweight, Schedule Manager)
   - Responsible for the platform for car detection business case for the client `New York City`. Image and video processing stack.
@@ -33,6 +28,14 @@ Expert-level Software Architect with over 9 years experience in developing distr
   - Planning and run workshops to learn Data Science skills.
   - Responsible for many backend platforms for Clients. Node, Rust, Scala, and Python tech stack. <br>
   **_Technologies used:_** Python, Rust, Scala, Flutter, Dart, Node.
+<br><br>
+
+**Senior Software Engineer Technical Lead** @ [MasterBorn](https://masterborn.com/) _(January 2020 - March 2022)_ <br>
+- Responsible for a political platform to archive documents in USA - AWS Serverless, Elasticsearch(NLP) and AWS stack.
+- Responsible for a platform for the Client (travel industry) in USA - RestApi Backend and Scraping system.
+- Responsible for the serverless platform using GPS technology for the Client (travel industry) in USA - AWS cloud
+- Responsible for the serverless platform to analyze and prepare documents for the Fintech company - AWS cloud. <br>
+**_Technologies used:_** TypeScript, JavaScript, AWS, Node, ClickHouse, ElastickSearch, Terraform, K8s.
 <br><br>
 
 **Senior Software Engineer** @ [Nozbe](https://nozbe.com/) _(July 2019 - January 2020)_ <br>
