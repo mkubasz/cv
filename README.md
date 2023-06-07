@@ -5,30 +5,48 @@ _Senior Software engineer/Tech Lead/Architect based in Opole, Poland_ <br>
 [Email](mailto:m.kubaszek@protonmail.com)  / [LinkedIn](https://www.linkedin.com/in/%E2%9A%AA%F0%9F%94%B4%E2%9A%AA-mateusz-kubaszek-58306466/) / [GitHub](https://github.com/mkubasz/) / [Twitter](https://twitter.com/MateuszKubaszek/)
 
 ## About position?
-Expert-level Software Architect with over 10 years of experience in developing distributed software products. Pragmatic in using various technologies to design, develop, and attentively deploy real enterprise class software, including building a knowledge base of customers' environments and their use of products. Eager to explore MLOps/GitOps technology branch by using them while working with currently active projects.
+As an experienced IT Architect and Consultant with a focus on cloud and data engineering, I have a strong background in designing and implementing complex technical solutions for a variety of organizations. With over 11 years of experience in the industry, I have a track record of success in leading cross-functional teams to deliver innovative and cost-effective solutions that meet business needs.
+
+I have a strong foundation in a range of technologies, including cloud computing, data management, and software development. I have extensive experience in designing and building cloud-based systems, as well as implementing data pipelines and data lakes for big data analytics. In addition, I am skilled in using DDD (Domain-Driven Design) principles to model complex systems, and I have experience facilitating event storming sessions to collaboratively map out system architecture and requirements.
+
+As an IT Architect and Consultant, I also have a background in business analysis. I have a strong understanding of business processes and the ability to translate business needs into technical requirements. I am skilled in gathering and documenting requirements, and I have experience using a variety of tools and techniques to analyze and model business processes.
+
+I am always looking for new opportunities to challenge myself and contribute to the success of my clients. If you are in need of a skilled IT Architect and Consultant with expertise in cloud and data engineering, DDD, and business analysis, please don't hesitate to reach out to me.
 
 ## My stack:
- - Languages: Rust, C#, F#, Scala, Go, Python, JavaScript(Node), TypeScript
- - Clouds: AWS, Google Cloud
- - Devops: GitOps, MLOps, Docker, K8s, Helmet, Github, Gitlab
- - Software Topics: DDD, CQRS/ES, Event Sourcing, Desing Patterns, Cloud Computing, Algorithms, Functional Programming
+ - Languages: Python, JavaScript(Node, Deno, Bun), TypeScript, Rust, C#, Scala, Go
+ - Clouds: AWS, Google Cloud, Azure
+ - Devops: GitOps, MLOps, Docker, K8s, Helmet, Github, Gitlab, Terraform
+ - Software Topics: DDD, CQRS/ES, Event Storming, Desing Patterns, Cloud Computing, Algorithms, Functional Programming
  - Architecture Topics: Enterprise Architecture, Microservices, Distributed Systems, Message Brokers, Streaming
- - DE: ElasticSearch, Apach Spark, Apach Flnk
+ - DE: ElasticSearch, ClickHouse, Apach Spark, Apach Flnk
 
 ## 👩🏼‍💻 Technical Experience
 
 **Consultant Software Architect** @ Order of Devs _(September 2018 - Present)_ <br>
-  - Working on infrastructure for Canal+ - Python, AWS, Spark, Snowflake
-  - Responsible for the GCP and CI/CD for Betfan - GCP, Github
-  - Planning and implementing services for Acast - AWS, Node, CDK, Github
-  - Responsible for the ML library in Rust (DuckRS).
-  - Responsible for a mobile applications in Flutter stack. (Brewiarz, Shoplist, Todo, Nozbe Lightweight, Schedule Manager)
-  - Responsible for the platform for car detection business case for the client `New York City`. Image and video processing stack.
-  - Consulting with Clients topics related with the Data Science and MLOps tech stack.
-  - Planning and run workshops to learn Data Science skills.
-  - Responsible for many backend platforms for Clients. Node, Rust, Scala, and Python tech stack. <br>
-  **_Technologies used:_** Python, Rust, Scala, Flutter, Dart, Node.
+ - Facilitator in Event Storming workshops for startup clients
+ - Working on infrastructure for Canal+ - Python, AWS, Spark, Snowflake
+ - Responsible for the GCP and CI/CD for Betfan - GCP, Github
+ - Planning and implementing services for Acast - AWS, Node, CDK, Github
+ - Responsible for the ML library in Rust (DuckRS).
+ - Responsible for a mobile applications in Flutter stack. (Brewiarz, Shoplist, Todo, Nozbe Lightweight, Schedule Manager)
+ - Responsible for the platform for car detection business case for the client New York City. Image and video processing stack.
+ - Consulting with Clients topics related with the Data Science and MLOps tech stack.
+ - Planning and run workshops to learn Data Science skills.
+ - Responsible for many backend platforms for Clients. Node, Rust, Scala, and Python tech stack.
+ **_Technologies used:_** Python, Rust, Scala, Flutter, Dart, Node.
 <br><br>
+
+**Senior Software Engineer** @ [Laminar](https://lamin.ar/) _(September 2022 - Present)_ <br>
+  - Working on on the new video streaming platform like Netflix.
+  - Responsible for the AWS and CI/CD
+  - Planning and implementing business architecture
+  - Responsible for the infrastructure.
+  - Planning and run workshops for Architecture.
+  - Responsible for the managing content and orchiestration
+  **_Technologies used:_** Node, Terraform, BigData, Streaming, Akamai, FinOps
+<br><br>
+
 
 **Senior Software Engineer Technical Lead** @ [MasterBorn](https://masterborn.com/) _(January 2020 - March 2022)_ <br>
 - Responsible for a political platform to archive documents in USA - AWS Serverless, Elasticsearch(NLP) and AWS stack.
