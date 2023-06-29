@@ -44,7 +44,7 @@ I am always looking for new opportunities to challenge myself and contribute to 
   - Responsible for the infrastructure.
   - Planning and run workshops for Architecture.
   - Responsible for the managing content and orchiestration
-  **_Technologies used:_** Node, Terraform, BigData, Streaming, Akamai, FinOps
+  **_Technologies used:_** Node, Terraform, Terragrunt, BigData, Streaming, Akamai, FinOps
 <br><br>
 
 
@@ -59,6 +59,7 @@ I am always looking for new opportunities to challenge myself and contribute to 
 **Senior Software Engineer** @ [Nozbe](https://nozbe.com/) _(July 2019 - January 2020)_ <br>
   - Responsible for the productivity platform for teams.
   - Responsible for a ML infrastructure to help productivity.
+  - Managing and maintaining infrastructure using Kubernetes (K8s) and AWS
   - Creating the mobile application for support productivity. <br>
   **_Technologies used:_** Python, Flutter, Dart, Node.
 <br><br>
@@ -67,6 +68,7 @@ I am always looking for new opportunities to challenge myself and contribute to 
   - Creating the mobile application for the pharmaceutical company called Roche.
   - Responsible for proxy platform to handle transform data with dynamic business rules. Client was the Spanish Fintech.
   - Responsible for the serverless platform to handle communication with norway banks for the Norway Fintech company. <br>
+  - Managing and maintaining infrastructure using Kubernetes (K8s), Azure and AWS
   **_Technologies used:_** C#, .Net Core, AWS, Kotlin, Python, Node.
     <br><br>
 
