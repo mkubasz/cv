@@ -34,7 +34,7 @@ I am always looking for new opportunities to challenge myself and contribute to 
  - Consulting with Clients topics related with the Data Science and MLOps tech stack.
  - Planning and run workshops to learn Data Science skills.
  - Responsible for many backend platforms for Clients. Node, Rust, Scala, and Python tech stack.
- **_Technologies used:_** Python, Rust, Scala, Flutter, Dart, Node.
+ **_Technologies used:_** Python (PySpark, FastAPI, Django), Rust, Scala, Flutter, Dart, Node(Express, Koa, Fastify).
 <br><br>
 
 **Senior Software Engineer** @ [Laminar](https://lamin.ar/) _(September 2022 - Present)_ <br>
@@ -44,7 +44,7 @@ I am always looking for new opportunities to challenge myself and contribute to 
   - Responsible for the infrastructure.
   - Planning and run workshops for Architecture.
   - Responsible for the managing content and orchiestration
-  **_Technologies used:_** Node, Terraform, Python, Pandas Terragrunt, BigData, Streaming, Akamai, FinOps
+  **_Technologies used:_** Node, Terraform, Python (FastAPI, Celery), Pandas, Terragrunt, BigData, Streaming, Akamai, FinOps, AWS, GCP, K8S
 <br><br>
 
 
@@ -53,7 +53,7 @@ I am always looking for new opportunities to challenge myself and contribute to 
 - Responsible for a platform for the Client (travel industry) in USA - RestApi Backend and Scraping system.
 - Responsible for the serverless platform using GPS technology for the Client (travel industry) in USA - AWS cloud
 - Responsible for the serverless platform to analyze and prepare documents for the Fintech company - AWS cloud. <br>
-**_Technologies used:_** TypeScript, JavaScript, Python, Pandas, AWS, Node, ClickHouse, ElastickSearch, Terraform, K8s.
+**_Technologies used:_** TypeScript, JavaScript, Python (FastAPI, Scrapy), Pandas, AWS, GCP, Node, ClickHouse, ElastickSearch, Terraform, K8s.
 <br><br>
 
 **Senior Software Engineer** @ [Nozbe](https://nozbe.com/) _(July 2019 - January 2020)_ <br>
@@ -61,7 +61,7 @@ I am always looking for new opportunities to challenge myself and contribute to 
   - Responsible for a ML infrastructure to help productivity.
   - Managing and maintaining infrastructure using Kubernetes (K8s) and AWS
   - Creating the mobile application for support productivity. <br>
-  **_Technologies used:_** Python, Flutter, Dart, Node.
+  **_Technologies used:_** Python (Pyramid, Tensorflow, Pandas), Flutter, Dart, Node.
 <br><br>
 
 **Senior Software Engineer** @ [Birght Coders Factory](https://bcf-software.pl/) _(September 2018 - July 2019)_ <br>
