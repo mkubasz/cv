@@ -2,7 +2,11 @@
 
 _Senior Software engineer/Tech Lead/Architect based in Opole, Poland_ <br>
 
-[Email](mailto:m.kubaszek@protonmail.com)  / [LinkedIn](https://www.linkedin.com/in/%E2%9A%AA%F0%9F%94%B4%E2%9A%AA-mateusz-kubaszek-58306466/) / [GitHub](https://github.com/mkubasz/) / [Twitter](https://twitter.com/MateuszKubaszek/)
+Email: m.kubaszek@protonmail.com or mkubasz@gmail.com  / 
+
+[LinkedIn](https://www.linkedin.com/in/%F0%9F%A7%99-mateusz-kubaszek-58306466/) / 
+[GitHub](https://github.com/mkubasz/) / 
+[Twitter](https://twitter.com/MateuszKubaszek/)
 
 ## About position?
 As an experienced IT Architect and Consultant with a focus on cloud and data engineering, I have a strong background in designing and implementing complex technical solutions for a variety of organizations. With over 11 years of experience in the industry, I have a track record of success in leading cross-functional teams to deliver innovative and cost-effective solutions that meet business needs.
