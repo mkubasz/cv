@@ -23,7 +23,7 @@ I am always looking for new opportunities to challenge myself and contribute to 
  - Devops: GitOps, MLOps, Docker, K8s, Helmet, Github, Gitlab, Terraform
  - Software Topics: DDD, CQRS/ES, Event Storming, Desing Patterns, Cloud Computing, Algorithms, Functional Programming
  - Architecture Topics: Enterprise Architecture, Microservices, Distributed Systems, Message Brokers, Streaming
- - DE: ElasticSearch, ClickHouse, Apach Spark, Apach Flnk
+ - DE: ElasticSearch, ClickHouse, Apach Spark, Apach Flnk, Airflow, DBT
 
 ## 👩🏼‍💻 Technical Experience
 
@@ -48,7 +48,7 @@ I am always looking for new opportunities to challenge myself and contribute to 
   - Responsible for the infrastructure.
   - Planning and run workshops for Architecture.
   - Responsible for the managing content and orchiestration
-  **_Technologies used:_** Node, Terraform, Python (FastAPI, Celery), Pandas, Terragrunt, BigData, Streaming, Akamai, FinOps, AWS, GCP, K8S
+  **_Technologies used:_** Node, Terraform, Python (FastAPI, Celery), Pandas, Terragrunt, BigData, Streaming, Spark, Dbt, Akamai, FinOps, AWS, GCP, K8S
 <br><br>
 
 
@@ -57,7 +57,7 @@ I am always looking for new opportunities to challenge myself and contribute to 
 - Responsible for a platform for the Client (travel industry) in USA - RestApi Backend and Scraping system.
 - Responsible for the serverless platform using GPS technology for the Client (travel industry) in USA - AWS cloud
 - Responsible for the serverless platform to analyze and prepare documents for the Fintech company - AWS cloud. <br>
-**_Technologies used:_** TypeScript, JavaScript, Python (FastAPI, Scrapy), Pandas, AWS, GCP, Node, ClickHouse, ElastickSearch, Terraform, K8s.
+**_Technologies used:_** TypeScript, JavaScript, Python (FastAPI, Scrapy), Pandas, AWS, Airflow, Dbt, GCP, Node, ClickHouse, ElastickSearch, Terraform, K8s.
 <br><br>
 
 **Senior Software Engineer** @ [Nozbe](https://nozbe.com/) _(July 2019 - January 2020)_ <br>
@@ -80,7 +80,7 @@ I am always looking for new opportunities to challenge myself and contribute to 
   - Responsible for planning and implementation the architecture for the diseases detection platform.
   - Responsible for implemententation and opimilization of ML algorithms for detect diseases - Image processing.
   - Responsible for the mobile application to visualize data. <br>
-  **_Technologies used:_** Python, C#, .Net Core 2.x, R, TypeScript, React,
+  **_Technologies used:_** Python, Pandas, Airflow, Dbt, C#, .Net Core 2.x, R, TypeScript, React,
 Django, Scrappy, QGIS, GDAL, CQRS, ES, DDD, Distributed Systems, Streams, Kotlin/Android Studio.
   <br><br>
 
