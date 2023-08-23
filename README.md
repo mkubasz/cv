@@ -9,35 +9,37 @@ Email: m.kubaszek@protonmail.com or mkubasz@gmail.com  /
 [Twitter](https://twitter.com/MateuszKubaszek/)
 
 ## About position?
-As an experienced IT Architect and Consultant with a focus on cloud and data engineering, I have a strong background in designing and implementing complex technical solutions for a variety of organizations. With over 11 years of experience in the industry, I have a track record of success in leading cross-functional teams to deliver innovative and cost-effective solutions that meet business needs.
 
-I have a strong foundation in a range of technologies, including cloud computing, data management, and software development. I have extensive experience in designing and building cloud-based systems, as well as implementing data pipelines and data lakes for big data analytics. In addition, I am skilled in using DDD (Domain-Driven Design) principles to model complex systems, and I have experience facilitating event storming sessions to collaboratively map out system architecture and requirements.
+IT Architect and Consultant with 11+ years of experience in cloud and data engineering, DDD, and business analysis.
 
-As an IT Architect and Consultant, I also have a background in business analysis. I have a strong understanding of business processes and the ability to translate business needs into technical requirements. I am skilled in gathering and documenting requirements, and I have experience using a variety of tools and techniques to analyze and model business processes.
+I have a strong track record of success in leading cross-functional teams to deliver innovative and cost-effective solutions that meet business needs. I am skilled in designing and implementing complex technical solutions for a variety of organizations, and I have a strong foundation in a range of technologies, including cloud computing, data management, and software development.
 
 I am always looking for new opportunities to challenge myself and contribute to the success of my clients. If you are in need of a skilled IT Architect and Consultant with expertise in cloud and data engineering, DDD, and business analysis, please don't hesitate to reach out to me.
 
+
 ## My stack:
- - Languages: Python, JavaScript(Node, Deno, Bun), TypeScript, Rust, C#, Scala, Go
- - Clouds: AWS, Google Cloud, Azure
- - Devops: GitOps, MLOps, Docker, K8s, Helmet, Github, Gitlab, Terraform
- - Software Topics: DDD, CQRS/ES, Event Storming, Desing Patterns, Cloud Computing, Algorithms, Functional Programming
- - Architecture Topics: Enterprise Architecture, Microservices, Distributed Systems, Message Brokers, Streaming
- - DE: ElasticSearch, ClickHouse, Apach Spark, Apach Flnk, Airflow, DBT
+ - Languages: Python, JavaScript/TypeScript, Rust, Scala, Go
+ - Clouds: AWS, Google Cloud
+ - Devops: GitOps, MLOps, Docker, K8s, Helmet, Github, Gitlab, Terraform, Terragrunt
+ - Software Topics: DDD, CQRS/ES, Desing Patterns, Cloud Computing, Algorithms, Functional Programming
+ - Architecture Topics: Enterprise Architecture, Microservices, Distributed Systems, Message Brokers, Streaming, Event Storming
+ - DE: ElasticSearch, ClickHouse, Apach Spark, Apach Flnk, Airflow/Perfect, DBT
 
 ## 👩🏼‍💻 Technical Experience
 
 **Consultant Software Architect** @ Order of Devs _(September 2018 - Present)_ <br>
+
+  Some bigger consultation projects:
+
  - Facilitator in Event Storming workshops for startup clients
- - Working on infrastructure for Canal+ - Python, AWS, Spark, Snowflake
- - Responsible for the GCP and CI/CD for Betfan - GCP, Github
- - Planning and implementing services for Acast - AWS, Node, CDK, Github
+ - Migrate to cloud infrastructure for Canal+ - Python, AWS, Spark, Snowflake
+ - Responsible for implementation infrastructure using the GCP and CI/CD approach for Betfan - GCP, Github
+ - Planning and implementing marketing for Acast - AWS, Node, CDK, Github
  - Responsible for the ML library in Rust (DuckRS).
  - Responsible for a mobile applications in Flutter stack. (Brewiarz, Shoplist, Todo, Nozbe Lightweight, Schedule Manager)
  - Responsible for the platform for car detection business case for the client New York City. Image and video processing stack.
  - Consulting with Clients topics related with the Data Science and MLOps tech stack.
- - Planning and run workshops to learn Data Science skills.
- - Responsible for many backend platforms for Clients. Node, Rust, Scala, and Python tech stack.
+ - Planning and run workshops to learn Data Science skills in Order of Devs Community.
  **_Technologies used:_** Python (PySpark, FastAPI, Django), Rust, Scala, Flutter, Dart, Node(Express, Koa, Fastify).
 <br><br>
 
@@ -53,8 +55,8 @@ I am always looking for new opportunities to challenge myself and contribute to 
 
 
 **Senior Software Engineer Technical Lead** @ [MasterBorn](https://masterborn.com/) _(January 2020 - March 2022)_ <br>
-- Responsible for a political platform to archive documents in USA - AWS Serverless, Elasticsearch(NLP) and AWS stack.
-- Responsible for a platform for the Client (travel industry) in USA - RestApi Backend and Scraping system.
+- Delivered as an Lead a political platform to archive documents in USA - AWS Serverless, Elasticsearch(NLP) and AWS stack.
+- Delivered as an Lead platform for the USA truck transport - RestApi Backend and Scraping system.
 - Responsible for the serverless platform using GPS technology for the Client (travel industry) in USA - AWS cloud
 - Responsible for the serverless platform to analyze and prepare documents for the Fintech company - AWS cloud. <br>
 **_Technologies used:_** TypeScript, JavaScript, Python (FastAPI, Scrapy), Pandas, AWS, Airflow, Dbt, GCP, Node, ClickHouse, ElastickSearch, Terraform, K8s.
@@ -69,14 +71,14 @@ I am always looking for new opportunities to challenge myself and contribute to 
 <br><br>
 
 **Senior Software Engineer** @ [Birght Coders Factory](https://bcf-software.pl/) _(September 2018 - July 2019)_ <br>
-  - Creating the mobile application for the pharmaceutical company called Roche.
+  - As an architect prepare and delivered MVP the application for the pharmaceutical company called Roche.
   - Responsible for proxy platform to handle transform data with dynamic business rules. Client was the Spanish Fintech.
   - Responsible for the serverless platform to handle communication with norway banks for the Norway Fintech company. <br>
   - Managing and maintaining infrastructure using Kubernetes (K8s), Azure and AWS
   **_Technologies used:_** C#, .Net Core, AWS, Kotlin, Python, Node.
     <br><br>
 
-**Data Scientist/Software Engineering** @ [Data Lions](https://datalions.eu/) _(January 2018 - November 2018)_ <br>
+**Lead Software Engineering** @ [Data Lions](https://datalions.eu/) _(January 2018 - November 2018)_ <br>
   - Responsible for planning and implementation the architecture for the diseases detection platform.
   - Responsible for implemententation and opimilization of ML algorithms for detect diseases - Image processing.
   - Responsible for the mobile application to visualize data. <br>
@@ -87,7 +89,7 @@ Django, Scrappy, QGIS, GDAL, CQRS, ES, DDD, Distributed Systems, Streams, Kotlin
 **Software Engineering** @ [Nokia](https://www.nokia.com/) _(March 2017 - January 2018)_ <br>
   - Implemented the architecture for the routing system used 5G technology. 
   - Participated in all meeting as Scrum master.
-  -  Created testing platform to emulate network and routes. <br>
+  - Created testing platform to emulate network and routes. <br>
   **_Technologies used:_** Python, C++.
 <br><br>
     
